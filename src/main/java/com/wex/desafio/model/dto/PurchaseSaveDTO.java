@@ -1,4 +1,4 @@
-package com.wex.desafio.controller;
+package com.wex.desafio.model.dto;
 
 import com.wex.desafio.model.entity.Purchase;
 import lombok.Data;

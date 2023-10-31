@@ -43,7 +43,7 @@ This is a demo Spring Boot project for the "desafio" (challenge) by Wex.
     ```bash 
     mvn clean test
     ```
-Code coverage minimum: 60%
+Code coverage minimum: 80%
  
 ![img.png](img.png)
 

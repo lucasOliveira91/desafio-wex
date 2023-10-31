@@ -1,5 +1,6 @@
 package com.wex.desafio.controller;
 
+import com.wex.desafio.model.dto.PurchaseSaveDTO;
 import com.wex.desafio.model.entity.Purchase;
 import com.wex.desafio.service.PurchaseService;
 import com.wex.desafio.service.integration.PurchaseDTO;
